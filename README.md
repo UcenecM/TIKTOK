@@ -1,1 +1,1 @@
-https://ucenecm.github.io/
+Dostop do spletne strani: https://ucenecm.github.io/
